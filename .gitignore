@@ -1,0 +1,23 @@
+# Build outputs
+build/
+src/**/build/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated artifacts
+*.elf
+*.exe
+*.a
+*.o
+*.obj
+*.bin
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
